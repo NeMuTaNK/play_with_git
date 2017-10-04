@@ -9,6 +9,7 @@ Fork it, play with it and improve it!
 # My Favorite cities
 
 * Amsterdam
+    * the canals!
 * Nuremberg
 * Shanghai
 
@@ -17,3 +18,5 @@ Fork it, play with it and improve it!
 1. cat
 1. dog
 1. horse
+
+![Funny Cat](funnycat.jpg)
